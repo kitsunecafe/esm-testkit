@@ -3,13 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.mjs",
-  "scripts": {
-    "test": "node --experimental-modules tests.mjs"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "simple-colors": "mochancrimthann/node-simple-colors"
-  }
+  "author": "mochancrimthann <grumpy.coffee.bean@gmail.com>",
+  "license": "ISC"
 }
